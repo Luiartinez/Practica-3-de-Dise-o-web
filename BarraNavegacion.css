@@ -1,0 +1,18 @@
+.navbar {
+    background-color:rgb(255, 0, 43);
+    border-radius: 0;
+    border: none;
+} 
+
+.navbar-brand {
+    color: rgb(76, 160, 94);
+    font-weight: bold;
+} 
+
+.navbar-nav .nav-link {
+    color: rgb(251, 255, 0);
+}  
+
+.navbar-nav .nav-link:hover {
+    color: rgb(11, 133, 0);
+} 

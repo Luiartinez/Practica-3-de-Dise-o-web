@@ -1,0 +1,26 @@
+.paginacion{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+} 
+
+.paginacion li{
+    list-style: none;
+} 
+
+.paginacion li a{
+    color: chartreuse;
+    padding: 10px 15px;
+    text-decoration: none;
+    border: 1px solid cornflowerblue;
+    margin: 0 5px;
+    border-radius: 5px;
+} 
+
+.paginacion li a:hover{
+    background-color: aqua;
+    color: blue;
+} 
+
+.paginacion li a:hover{background-color: white;
+color: blueviolet;} 
